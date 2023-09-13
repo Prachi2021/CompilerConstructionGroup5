@@ -5,7 +5,7 @@ This repository includes labs for Compiler Construction for BICS 4A Group 5
 
 Here are the contributors to this project:
 
-1. [Shubh Patel](https://github.com/136291)
+1. [Shubh Patel](https://github.com/ShubhPatel06)
 2. [Sheikh Ali](https://github.com/dev-sheikh-ali/)
 3. [Prachi Patel](https://github.com/Prachi2021)
 4. [Evans Okania](https://github.com/135251)
