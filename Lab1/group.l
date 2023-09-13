@@ -2,6 +2,20 @@
 which can be accessed inside yylex() 
 and main() ***/
 
+
+/***
+
+136291 Shubh Patel	
+135736 Sheikh Ali 
+137223 Prachi Patel	
+135251 Evans Okania	
+136730 Kevin Kipkoech	
+116827 Kweyu Nicolas Anelka	
+136663 Sean Kimutai 	
+
+**/
+
+
 %{
 int count_lowercase = 0;  // Initializing a counter for lowercase letters
 int count_uppercase = 0;  // Initializing a counter for uppercase letters
