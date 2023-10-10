@@ -12,7 +12,7 @@ Here are the contributors to this project:
 5. [Kevin Kipkoech](https://github.com/136730)
 6. [Kweyu Nicolas Anelka](https://github.com/116827)
 7. [Sean Kimutai](https://github.com/136663)
-8. [Ryan Lagat]
+8. [Ryan Lagat](https://github.com/134786)
 
 Thank you to all our contributors for their valuable contributions to this project!
 
